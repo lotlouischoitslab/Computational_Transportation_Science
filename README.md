@@ -5,7 +5,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 ## Contributors:
 - ### Louis Sungwoo Cho 
 
-### References:
+## References:
 - **[0] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
 - **[1] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
 - **[2] [Institute of Transportation Engineers UIUC Chapter](https://ite.cee.illinois.edu/)**
