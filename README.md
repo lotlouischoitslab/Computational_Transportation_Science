@@ -1,5 +1,9 @@
 # Transportation Engineering Resources
-Operation, management, control, design, evaluation of passenger and freight transportation systems. Traffic theory, introductary road design, air transportation, rail transportation, water transportation, and an introduction to both Autonomous Vehicles and Intelligent Transportation Systems (ITS). Extensive use of Python and Excel will be used to analyze and forecast traffic data.
+Operation, management, control, design, evaluation of passenger and freight transportation systems. Traffic theory, introductory road design, air transportation, rail transportation, water transportation, and an introduction to both Autonomous Vehicles and Intelligent Transportation Systems (ITS). Extensive use of Python and Excel will be used to analyze and forecast transportation data.
+
+## Prerequities:
+- **Linear Algebra**
+- **Programming in Python**
 
 ### Contributors:
 - ### Louis Sungwoo Cho 
