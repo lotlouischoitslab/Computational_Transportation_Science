@@ -2,6 +2,13 @@
 Operation, management, control, design, evaluation of passenger and freight transportation systems. Traffic theory, introductory road design, air transportation, rail transportation, water transportation, and an introduction to both Autonomous Vehicles and Intelligent Transportation Systems (ITS). Extensive use of Python and Excel will be used to analyze and forecast transportation data. </br>
 **Prerequisites: Linear Algebra; Programming in Python**
 
+## Grading:
+- 10% Lecture Attendance
+- 10% Final Presentation
+- 20% Prairielearn Assignments
+- 20% Quizzes
+- 40% Group Computational Assignments
+
 ## Contributors:
 - ### Louis Sungwoo Cho 
 
