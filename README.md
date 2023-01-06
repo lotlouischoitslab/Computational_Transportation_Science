@@ -12,6 +12,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 
 ## Contributors:
 - ### Louis Sungwoo Cho 
+- ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
 
 ## References:
 - **[0] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
