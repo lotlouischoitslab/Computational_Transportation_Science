@@ -3,8 +3,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
 **Prerequisites: MATH 257 Linear Algebra with Computational Applications; </br> CS 124 Introduction to Computer Science 1 or CS 101 Introduction to Computing for Scientists & Engineers**
 
 ## Proposed Grading:
-- **10% Lecture Attendance**
-- **10% Final Presentation**
+- **5% Lecture Attendance**
+- **15% Final Presentation**
 - **20% Prairielearn Assignments**
 - **20% Computer-based Testing Facility (CBTF) Quizzes**
 - **40% Group Computational Problems**
