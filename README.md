@@ -8,6 +8,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **20% Prairielearn Assignments**
 - **20% Computer-based Testing Facility (CBTF) Quizzes**
 - **40% Group Computational Problems**
+- **Extra credits at instructor's choice**
 
 ## Contributors:
 - ### Louis Sungwoo Cho 
