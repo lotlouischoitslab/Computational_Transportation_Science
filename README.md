@@ -7,7 +7,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **10% Final Presentation**
 - **20% Prairielearn Assignments**
 - **20% Quizzes**
-- **40% Group Computational Assignments**
+- **40% Group Computational Problems**
 
 ## Contributors:
 - ### Louis Sungwoo Cho 
