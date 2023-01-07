@@ -30,6 +30,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
 | 40 | D-|
 | 0 | F|
 
+**UIUC CEE 310 Transportation Engineering is run independently. I am NOT using their grading to compute what the proposed transportation engineering course will be like. If you are an undergraduate student at UIUC who needs course credit AND letter grade for CEE 310, please take their course.**
+
 ## Lecture Attendance:
 - Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our modern society. 
 
