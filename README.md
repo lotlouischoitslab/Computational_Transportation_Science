@@ -24,7 +24,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - Group of 4 will work on data science and engineering problems to analyze transportation data using Python and Excel.
 
 ## Final Presentation:
-- From the group computation problem assignments, teams of 4 will do a case study on a public transportation system.
+- Teams of 4 will do a case study on a public transportation system in a city and record a video of their final presentation.
 
 ## References:
 - **[0] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
