@@ -40,10 +40,10 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - Multiple-choice quizzes will be tested on that particular unit. Students must register for the Computer-Based Testing Facility so they could pick a time to take the quiz in a given time slot. The main reason for the CBTF environment is to prevent cheating. 
 
 ## Group Computational Problems:
-- Group of 4 will work on data science and engineering problems to analyze transportation data using Python and Excel.
+- Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel.
 
 ## Final Presentation:
-- Teams of 4 will do a case study on a public transportation system in a city and record a video of their final presentation.
+- Teams of 4 will do a case study on a public transportation system in a city and record a video of their final presentation. The winning team of the best presentation will get an extra credit of 1% for each group member. 
 
 ## Extra Credits:
 - Numerous extra credit opportunities at instructor's choice. 
