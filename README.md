@@ -43,7 +43,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel.
 
 ## Final Presentation:
-- Teams of 4 will do a case study on a public transportation system in a city to explore and record a video of their final presentation. The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team!  
+- Teams of 4 will do a case study on a public transportation system in a city to explore and record a video of their final presentation. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team!**
 
 ## Extra Credits:
 - Numerous extra credit opportunities at instructor's choice. 
