@@ -15,10 +15,13 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **Extra credits at instructor's choice**
 
 ## Lecture Attendance:
-- Please go to lecture to meet new friends and professors.
+- Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our society. 
 
 ## Prairielearn Assignments:
-- Each homework will have multiple attempts to demonstrate mastery in the material taught in that unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments.
+- Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever.
+
+## Quizzes:
+- Multiple-choice quizzes will be tested on that particular unit. Students must register for the Computer-Based Testing Facility so they could pick a time to take the quiz in a given time slot. The main reason for the CBTF environment is to prevent cheating. 
 
 ## Group Computational Problems:
 - Group of 4 will work on data science and engineering problems to analyze transportation data using Python and Excel.
