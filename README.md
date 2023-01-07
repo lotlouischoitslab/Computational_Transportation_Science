@@ -16,6 +16,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **Extra credits at instructor's choice**
 
 |Percentage | Letter Grade |
+| -------|-------|
 | 95 | A+ |
 | 90 | A |
 | 87 | A- |
