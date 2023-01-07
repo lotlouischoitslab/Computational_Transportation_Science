@@ -15,16 +15,16 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **Extra credits at instructor's choice**
 
 ## Lecture Attendance:
-- **Please go to lecture to meet new friends and professors.**
+- Please go to lecture to meet new friends and professors.
 
 ## Prairielearn Assignments
-- **Each homework will have multiple attempts to demonstrate mastery in the material taught in that unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments.**
+- Each homework will have multiple attempts to demonstrate mastery in the material taught in that unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments.
 
 ## Group Computational Problems:
-- **Group of 4 will work on data science and engineering problems to analyze transportation data using Python and Excel.**
+- Group of 4 will work on data science and engineering problems to analyze transportation data using Python and Excel.
 
 ## Final Presentation
-- **From the group computation problem assignments, teams of 4 will do a case study on a public transportation system.**
+- From the group computation problem assignments, teams of 4 will do a case study on a public transportation system.
 
 ## References:
 - **[0] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
