@@ -29,6 +29,9 @@ Operation, management, control, design, evaluation of passenger and freight tran
 ## Final Presentation:
 - Teams of 4 will do a case study on a public transportation system in a city and record a video of their final presentation.
 
+## Extra Credits:
+- Numerous extra credit opportunities at instructor's choice. 
+
 ## References:
 - **[0] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
 - **[1] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
