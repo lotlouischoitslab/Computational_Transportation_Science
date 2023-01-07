@@ -3,7 +3,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 **Prerequisites: MATH 257 Linear Algebra with Computational Applications; </br> CS 124 Introduction to Computer Science 1 or CS 101 Introduction to Computing for Scientists & Engineers**
 
 # Contributors:
-- ### Louis Sungwoo Cho 
+- ### Louis Sungwoo Cho (ITE@UIUC President)
 - ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
 
 # Teaching Guidelines:
