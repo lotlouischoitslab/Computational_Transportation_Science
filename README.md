@@ -17,13 +17,13 @@ Operation, management, control, design, evaluation of passenger and freight tran
 ## Lecture Attendance:
 - Please go to lecture to meet new friends and professors.
 
-## Prairielearn Assignments
+## Prairielearn Assignments:
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments.
 
 ## Group Computational Problems:
 - Group of 4 will work on data science and engineering problems to analyze transportation data using Python and Excel.
 
-## Final Presentation
+## Final Presentation:
 - From the group computation problem assignments, teams of 4 will do a case study on a public transportation system.
 
 ## References:
