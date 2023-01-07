@@ -15,6 +15,20 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **40% Group Computational Problems**
 - **Extra credits at instructor's choice**
 
+|Percentage | Letter Grade |
+| 95 | A+ |
+| 90 | A |
+| 87 | A- |
+| 84 | B+ |
+| 80 | B |
+| 75 | B- |
+| 70 | C |
+| 65 | C-|
+| 60 | D+|
+| 55 | D |
+| 50 | D-|
+| 0 | F|
+
 ## Lecture Attendance:
 - Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our society. 
 
