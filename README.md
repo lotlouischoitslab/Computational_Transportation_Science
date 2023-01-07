@@ -42,7 +42,7 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever.
 
 ## Quizzes:
-- Multiple-choice quizzes will be tested on that particular unit. Students must register for the Computer-Based Testing Facility so they could pick a time to take the quiz in a given time slot. The main reason for the CBTF environment is to prevent cheating. 
+- Multiple-choice quizzes will be tested on that particular unit. Each quiz will be 50 minutes long. Students must register for the Computer-Based Testing Facility so they could pick a time to take the quiz in a given time slot. The main reason for the CBTF environment is to allow students to chose a time to take the quiz and to prevent cheating. 
 
 ## Group Computational Problems:
 - Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel.
