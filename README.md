@@ -6,6 +6,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - ### Louis Sungwoo Cho 
 - ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
 
+# Guidelines on Teaching:
 ## Proposed Grading:
 - **5% Lecture Attendance**
 - **15% Final Presentation**
