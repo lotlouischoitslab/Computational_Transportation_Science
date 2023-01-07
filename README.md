@@ -19,15 +19,15 @@ Operation, management, control, design, evaluation of passenger and freight tran
 | -------|-------|
 | 95 | A+ |
 | 90 | A |
-| 87 | A- |
-| 84 | B+ |
-| 80 | B |
-| 75 | B- |
-| 70 | C |
-| 65 | C-|
-| 60 | D+|
-| 55 | D |
-| 50 | D-|
+| 85 | A- |
+| 80 | B+ |
+| 75 | B |
+| 70 | B- |
+| 65 | C |
+| 60 | C-|
+| 55 | D+|
+| 50 | D |
+| 40 | D-|
 | 0 | F|
 
 ## Lecture Attendance:
