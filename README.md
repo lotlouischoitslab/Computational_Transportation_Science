@@ -37,4 +37,4 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **[1] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
 - **[2] [Louis Engineering Computer Science Resources](https://github.com/lotlouischoitslab/Louis_Engineering_Computer_Science_Resources)**
 - **[3] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
-- **[4] [Institute of Transportation Engineers UIUC Chapter](https://ite.cee.illinois.edu/)**
+- **[4] [Institute of Transportation Engineers UIUC Chapter ITE@UIUC](https://ite.cee.illinois.edu/)**
