@@ -31,7 +31,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 | 0 | F|
 
 ## Lecture Attendance:
-- Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our society. 
+- Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our modern society. 
 
 ## Prairielearn Assignments:
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever.
