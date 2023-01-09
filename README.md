@@ -15,8 +15,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **40% Group Computational Problems**
 - **Extra credits at instructor's choice**
 
-  |Percentage | Letter Grade |
-  | ---|---|
+  |Percentage | Letter Grade | |
+  | ---|---|---|
   | 95 | A+|
   | 90 | A |
   | 85 | A-|
@@ -29,7 +29,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
   | 50 | D+|
   | 45 | D |
   | 40 | D-|
-  | 0  | F |
+  | 0  | F | ~1%|
 
 Don't worry everyone, I will make the grading as lenient as possible. If you got a flat 90.0% overall, then you will get a flat 90.0%. If you get a floating point number of 90.001235% or 90.167898% or 90.67663% or 90.9999998%, you will be rounded up to 91%.
 
