@@ -15,6 +15,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **40% Group Computational Problems**
 - **Extra Credits**
 
+## Proposed Grading Scale:
+
   |Percentage | Letter Grade | |
   | ---|---|---|
   | 95 | A+|
