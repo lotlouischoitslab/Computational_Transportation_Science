@@ -39,19 +39,19 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 **UIUC CEE 310 Transportation Engineering is run independently. I am NOT using their grading scale to compute what the proposed transportation engineering course's final grading will be like. If you are an undergraduate student at UIUC who needs course credit AND letter grade for CEE 310, please take their course. Official course description of UIUC CEE 310 can be found here: [CEE 310](https://cee.illinois.edu/academics/courses/CEE310)**
 
 ## Lecture Attendance:
-- Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our modern society. 
+- Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our modern society. 3 of your lecture attendances will be dropped.
 
 ## Prairielearn Assignments:
-- Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever.
+- Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever. The lowest homework assignment will be dropped.
 
 ## Quizzes:
-- Multiple-choice quizzes will be tested on that particular unit. Each quiz will be 50 minutes long. Students must register for the Computer-Based Testing Facility so they could pick a time to take the quiz in a time period. The main reason for the CBTF environment is to allow students to chose time to take the quiz and to prevent cheating. 
+- Multiple-choice quizzes will be tested on that particular unit. Each quiz will be 50 minutes long. Students must register for the Computer-Based Testing Facility so they could pick a time to take the quiz in a time period. The main reason for the CBTF environment is to allow students to chose time to take the quiz and to prevent cheating. The lowest quiz score will be dropped.
 
 ## Group Computational Problems:
-- Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern transportation academia and industry.
+- Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern transportation academia and industry. 2 of your lowest group computational problems will be dropped.
 
 ## Final Presentation:
-- Teams of 4 will do a case study on a public transportation system in a city they would like to explore and record a video of their final presentation. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team!**
+- Teams of 4 will do a case study on a public transportation system in a city they would like to explore and record a video of their final presentation. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the final presentations.**
 
 ## Extra Credits:
 - Numerous extra credit opportunities at instructor's choice. 
