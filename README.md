@@ -11,7 +11,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **5% Lecture Attendance**
 - **15% Final Presentation**
 - **20% Prairielearn Assignments**
-- **20% Computer-based Testing Facility (CBTF) Quizzes**
+- **20% Computer-Based Testing Facility (CBTF) Quizzes**
 - **40% Group Computational Problems**
 - **Extra Credits**
 
