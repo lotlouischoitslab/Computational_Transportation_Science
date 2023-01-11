@@ -33,7 +33,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
   | 40 | D-|
   | 0  | F | ~1%|
 
-Don't worry everyone, I will make the grading as lenient as possible. If you got a flat 90.0% overall, then you will get a flat 90.0%. If you get a floating point number of 90.001235% or 90.67663% or 90.9999998%, you will be rounded up to 91%.
+Don't worry everyone, I will make the grading as lenient as possible. If you got a flat 90.0% overall, then you will get a flat 90.0%. If you get a floating point number of 90.00125% or 90.6763% or 90.9998%, you will be rounded up to 91%.
 
 ### IMPORTANT!
 **UIUC CEE 310 Transportation Engineering is run independently. I am NOT using their grading scale to compute what the proposed transportation engineering course's final grading will be like. If you are an undergraduate student at UIUC who needs course credit AND letter grade for CEE 310, please take their course. Official course description of UIUC CEE 310 can be found here: [CEE 310](https://cee.illinois.edu/academics/courses/CEE310)**
