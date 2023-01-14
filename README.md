@@ -9,9 +9,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Teaching Guidelines:
 ## Proposed Grading:
 - **5% Lecture Attendance**
-- **15% Final Presentation**
-- **20% Prairielearn Assignments**
-- **20% Computer-Based Testing Facility (CBTF) Quizzes**
+- **25% Prairielearn Assignments**
+- **30% Mini Presentations**
 - **40% Group Computational Problems**
 - **Extra Credits**
 
@@ -44,14 +43,12 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 ## Prairielearn Assignments:
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever. The lowest homework assignment will be dropped.
 
-## Quizzes:
-- Multiple-choice quizzes will be tested on that particular unit. Each quiz will be 50 minutes long. Students must register for the Computer-Based Testing Facility so they could pick a time to take the quiz in a time period. The main reason for the CBTF environment is to allow students to chose time to take the quiz and to prevent cheating. The lowest quiz score will be dropped.
+## Mini-Presentations:
+- Teams of 4 will do a case study on a given topic for every unit covered in the course and record a video of their presentations. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the mini-presentations.**
 
 ## Group Computational Problems:
 - Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern transportation academia and industry. 2 of your lowest group computational problems will be dropped.
 
-## Final Presentation:
-- Teams of 4 will do a case study on a public transportation system in a city they would like to explore and record a video of their final presentation. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the final presentations.**
 
 ## Extra Credits:
 - Numerous extra credit opportunities at instructor's choice. 
