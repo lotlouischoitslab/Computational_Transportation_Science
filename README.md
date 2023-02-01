@@ -48,8 +48,11 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 ## Prairielearn Assignments:
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever. **The lowest homework assignment will be dropped.**
 
-## Mini-Presentations:
-- Teams of 4 will do a case study on a given topic for every unit covered in the course and record a video of their presentations. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the mini-presentations.**
+## Case Studies:
+- Individual case studies (can be done up to 2 people) on a unit in transportation will be performed by students. 
+
+## Final Presentations:
+- Teams of 4 will present on a given topic for a unit in transportation they are interested covered in the course and record a video of their presentations. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the mini-presentations.**
 
 ## Group Computational Problems:
 - Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern transportation academia and industry. Each group activity will be given 2 weeks for completion. **2 of your lowest group computational problems will be dropped.**
