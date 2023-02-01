@@ -10,9 +10,9 @@ Operation, management, control, design, evaluation of passenger and freight tran
 ## Proposed Grading:
 - **5% Lecture Attendance**
 - **5% Reading Assignments**
-- **20% Prairielearn Assignments**
+- **30% Prairielearn Assignments**
 - **30% Mini-Presentations**
-- **40% Group Computational Problems**
+- **30% Group Computational Problems**
 - **Extra Credits**
 
 ## Proposed Grading Scale:
