@@ -67,20 +67,20 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 - **[3] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
 - **[4] [Institute of Transportation Engineers UIUC Chapter ITE@UIUC](https://ite.cee.illinois.edu/)**
 
-### Proposed Computational Transportation Science (CTS) Certification Program:
+## Proposed Computational Transportation Science (CTS) Certification Program:
 
-## REQUIRED:
-- **CEE 310 Transportation Engineering**
-- **CS 357 Numerical Methods 1**
+  ## REQUIRED:
+  - **CEE 310 Transportation Engineering**
+  - **CS 357 Numerical Methods 1**
 
-## Machine Learning Course (Select 1)
-- **CEE 492 Data Science for Civil & Environmental Engineering**
-- **CEE 498 Machine Learning for Civil & Environmental Engineering**
-- **CS 440 Artificial Intelligence**
-- **CS 441 Applied Machine Learning**
-- **CS 443 Reinforcement Learning**
-- **CS 444 Deep Learning for Computer Vision**
-- **CS 446 Machine Learning Theory**
-- **ECE 365 Data Science & Engineering**
+  ## Machine Learning Course (Select 1)
+  - **CEE 492 Data Science for Civil & Environmental Engineering**
+  - **CEE 498 Machine Learning for Civil & Environmental Engineering**
+  - **CS 440 Artificial Intelligence**
+  - **CS 441 Applied Machine Learning**
+  - **CS 443 Reinforcement Learning**
+  - **CS 444 Deep Learning for Computer Vision**
+  - **CS 446 Machine Learning Theory**
+  - **ECE 365 Data Science & Engineering**
 
-## Select 2 400 lvl CEE Transportation Courses:
+  ## Select 2 400 lvl CEE Transportation Courses:
