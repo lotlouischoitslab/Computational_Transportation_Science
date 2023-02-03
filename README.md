@@ -73,7 +73,7 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
   - **CEE 310 Transportation Engineering**
   - **CS 357 Numerical Methods 1**
 
-  ## Machine Learning Course (Select 1)
+  ## Machine Learning Course (Select 1):
   - **CEE 492 Data Science for Civil & Environmental Engineering**
   - **CEE 498 Machine Learning for Civil & Environmental Engineering**
   - **CS 440 Artificial Intelligence**
