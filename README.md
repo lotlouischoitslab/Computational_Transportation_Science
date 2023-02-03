@@ -83,4 +83,4 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
   - **CS 446 Machine Learning Theory**
   - **ECE 365 Data Science & Engineering**
 
-  ## Select 2 400 lvl CEE Transportation Courses:
+  ## Select 2 400 level CEE Transportation Courses:
