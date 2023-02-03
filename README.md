@@ -67,7 +67,7 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 - **[3] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
 - **[4] [Institute of Transportation Engineers UIUC Chapter ITE@UIUC](https://ite.cee.illinois.edu/)**
 
-# Proposed Computational Transportation Science Certification Program:
+### Proposed Computational Transportation Science (CTS) Certification Program:
 
 ## REQUIRED:
 - **CEE 310 Transportation Engineering**
