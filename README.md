@@ -7,6 +7,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
 
 # Teaching Guidelines:
+"Stay infront of a slow-moving freight train. - John S. Popovics"
 ## Proposed Grading:
 - **5% Lecture Attendance**
 - **5% Reading Assignments**
