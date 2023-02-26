@@ -15,7 +15,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **CEE 410 Rail Signal Systems**
 - **CEE 411 Rail Construction Management**
 - **CEE 412 High-speed Rail**
-- **CEE 415 Geometric Design of Roads**
+- **CEE 415 Geometric Design of Roads (Capstone course)**
 - **CEE 416 Traffic Capacity Analysis**
 - **CEE 418 Public Transportation Systems**
 - **CEE 419 Transportation Economics**
