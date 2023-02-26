@@ -21,6 +21,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **CEE 419 Transportation Economics**
 - **CEE 498 Data-driven Simulation for CEE?**
 - **CEE 498 Autonomous Trains?**
+- **CEE 498 Introduction to Intelligent Transportation Systems (ITS)?**
 
 # Teaching Guidelines:
 "Stay infront of the slow-moving freight train." - John S. Popovics
