@@ -54,7 +54,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
   
 Adjusted Grades:
 
-$$Finalgrade = \lceil{ \sqrt{rawgrade }}\rceil + extracredits$$
+$$Finalgrade = \lceil{ \sqrt{rawgrade }} \rceil + extracredits$$
 
 Don't worry everyone, I will make the grading as lenient as possible. If you got a flat 90.0% overall, then you will get a flat 90.0%. If you get a floating point number of 90.00125% or 90.6763% or 90.9998%, you will be rounded up to 91%.
 
