@@ -5,6 +5,22 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Contributors:
 - ### Louis Sungwoo Cho (ITE@UIUC President)
 - ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
+- ### Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign
+
+# Post-requisites
+- **CEE 406 Pavement Design 1**
+- **CEE 407 Aviation Engineering**
+- **CEE 408 Rail transportation engineering**
+- **CEE 409 Railroad Track Engineering**
+- **CEE 410 Rail Signal Systems**
+- **CEE 411 Rail Construction Management**
+- **CEE 412 High-speed Rail**
+- **CEE 415 Geometric Design of Roads**
+- **CEE 416 Traffic Capacity Analysis**
+- **CEE 418 Public Transportation Systems**
+- **CEE 419 Transportation Economics**
+- **CEE 498 Data-driven Simulation for CEE?**
+- **CEE 498 Autonomous Trains?**
 
 # Teaching Guidelines:
 "Stay infront of the slow-moving freight train." - John S. Popovics
