@@ -52,7 +52,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
   | 40 | D-|
   | 0  | F | ~1%|
   
-Adjusted Grades:
+**Adjusted Grades:**
 
 $$Finalgrade = \lceil{ \sqrt{Rawgrade } }\rceil + Extracredits$$
 
