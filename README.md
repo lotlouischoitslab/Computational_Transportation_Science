@@ -5,7 +5,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Contributors:
 - ### Louis Sungwoo Cho (ITE@UIUC President)
 - ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
-- ### Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign
+- #### Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign
 
 # Post-requisites
 - **CEE 406 Pavement Design 1**
