@@ -30,8 +30,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **5% Reading Assignments**
 - **20% Prairielearn Assignments**
 - **20% Case Studies**
-- **25% Final Presentations**
 - **25% Group Computational Problems**
+- **25% Final Presentations**
 - **Extra Credits**
 
 ## Proposed Grading Scale:
@@ -73,11 +73,11 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 ## Case Studies:
 - Individual case studies (can be done up to 2 people) on a unit in transportation will be performed by students. Visual data analysis can be used to describe the recent transportation/traffic changes that have taken place for the student(s)' respective case study analysis. **Everyone is required to complete the case studies.**
 
-## Final Presentations:
-- Teams of 4 will present on a given topic for a unit in transportation they are interested covered in the course and record a video of their presentations. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the mini-presentations.**
-
 ## Group Computational Problems:
 - Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern transportation academia and industry. Each group activity will be given 2 weeks for completion. **2 of your lowest group computational problems will be dropped.**
+
+## Final Presentations:
+- Teams of 4 will present on a given topic for a unit in transportation they are interested covered in the course and record a video of their presentations. It can be a topic that they are interested in a group computational problem they have been solving or something else. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the mini-presentations.**
 
 ## Extra Credits:
 - Numerous extra credit opportunities at instructor's choice. 
