@@ -63,9 +63,6 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 ## Lecture Attendance:
 - Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our modern society. 3 of your lecture attendances will be dropped.
 
-## Reading Assignments:
-- Reading assignments from certain portion from a textbook or an article related to transportation engineering will be given out. Once students have completed their reading assignments, a short homework problem on the text will be given out and it will be due until the beginning of next lecture. Multiple attempts will be given so students can have enough time to absorb the content. 
-
 ## Prairielearn Assignments:
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever. **The lowest homework assignment will be dropped.**
 
