@@ -30,9 +30,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
 "Stay infront of the slow-moving freight train." - John S. Popovics
 ## Proposed Grading:
 - **5% Lecture Attendance**
-- **5% Reading Assignments**
 - **20% Prairielearn Assignments**
-- **20% Case Studies**
+- **25% Case Studies**
 - **25% Group Computational Problems**
 - **25% Final Presentations**
 - **Extra Credits**
