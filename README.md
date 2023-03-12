@@ -29,11 +29,11 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Teaching Guidelines:
 "Stay infront of the slow-moving freight train." - John S. Popovics
 ## Proposed Grading:
-- **5% Lecture Attendance**
+- **6% Lecture Attendance**
 - **20% Prairielearn Assignments**
-- **25% Case Studies**
-- **25% Group Computational Problems**
-- **25% Final Presentations**
+- **20% Case Studies**
+- **27% Group Computational Problems**
+- **27% Final Presentations**
 - **Extra Credits**
 
 ## Proposed Grading Scale:
