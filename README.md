@@ -13,7 +13,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Post-requisites
 - **CEE 406 Pavement Design 1**
 - **CEE 407 Aviation Engineering**
-- **CEE 408 Rail transportation engineering**
+- **CEE 408 Rail Transportation Engineering**
 - **CEE 409 Railroad Track Engineering**
 - **CEE 410 Rail Signal Systems**
 - **CEE 411 Rail Construction Management**
