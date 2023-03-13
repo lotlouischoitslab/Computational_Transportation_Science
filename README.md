@@ -22,7 +22,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **CEE 416 Traffic Capacity Analysis**
 - **CEE 418 Public Transportation Systems**
 - **CEE 419 Transportation Economics**
-- **CEE 498 Learning Methods for CEE**
+- **CEE 498 Data-driven Modeling and Simulation for CEE**
 - **CEE 498 Autonomous Trains?**
 - **CEE 498 Introduction to Intelligent Transportation Systems (ITS)?**
 
