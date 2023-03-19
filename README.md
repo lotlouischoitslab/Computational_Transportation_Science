@@ -31,7 +31,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 ## Proposed Grading:
 - **6% Lecture Attendance**
 - **20% Prairielearn Assignments**
-- **20% Case Studies**
+- **20% Midterm Exams**
 - **27% Group Computational Problems**
 - **27% Final Presentations**
 - **Extra Credits**
@@ -66,8 +66,8 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 ## Prairielearn Assignments:
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever. **The lowest homework assignment will be dropped.**
 
-## Case Studies:
-- Individual case studies (can be done up to 2 people) on a unit in transportation will be performed by students. Visual data analysis can be used to describe the recent transportation/traffic changes that have taken place for the student(s)' respective case study analysis. **Everyone is required to complete the case studies.**
+## Midterm Exams:
+- There will be two midterm exams. The first midterm exam will be on traffic theory and the second midterm will be on the remaining topics covered in the course. You are allowed to drop one midterm exam and the highest score will be counted only. 
 
 ## Group Computational Problems:
 - Group of 4 will work on data science and engineering problems to analyze various transportation data using Python and Excel. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern transportation academia and industry. Each group activity will be given 2 weeks for completion. **2 of your lowest group computational problems will be dropped.**
