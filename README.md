@@ -38,7 +38,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **CEE 498 Introduction to Intelligent Transportation Systems (ITS)?**
 
 # Teaching Guidelines:
-"Stay infront of the slow-moving freight train." - John S. Popovics
+"Stay infront of the slow-moving freight train." - Professor John S. Popovics
 ## Proposed Grading:
 - **6% Lecture Attendance**
 - **20% Prairielearn Assignments**
