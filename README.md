@@ -4,7 +4,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Prerequisites:
 - ### Linear Algebra, one of following:
   - **MATH 257 Linear Algebra with Computational Applications (Python)**
-  - **MATH 416 Abstract Linear Algebra**
+  - **MATH 227 Linear Algebra for Data Science**
 - ### Computing, one of the following:
   - **CS 124 Introduction to Computer Science 1 (Java)**
   - **CS 101 Introduction to Computing for Scientists & Engineers**
