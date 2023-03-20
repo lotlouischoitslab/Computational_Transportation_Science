@@ -2,7 +2,7 @@
 Operation, management, control, design, evaluation of passenger and freight transportation systems. Traffic theory, introductory road design, air transportation, rail transportation, and an introduction to both Autonomous Vehicles and Intelligent Transportation Systems (ITS) for futuristic Smart Cities. Extensive use of Python and Excel will be used to analyze and forecast transportation data. 
 
 # Prerequisites:
-- ##### MATH 257 Linear Algebra with Computational Applications (Python)
+- ### MATH 257 Linear Algebra with Computational Applications (Python)
 - ### One of the Following:
   - **CS 124 Introduction to Computer Science 1 (Java)**
   - **CS 101 Introduction to Computing for Scientists & Engineers**
