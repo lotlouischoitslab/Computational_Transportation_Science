@@ -23,12 +23,12 @@ Operation, management, control, design, evaluation of passenger and freight tran
 
 # Post-requisites
 - **CEE 406 Pavement Design 1**
-- **CEE 407 Aviation Engineering**
+- **CEE 407 Airport Design**
 - **CEE 408 Rail Transportation Engineering**
 - **CEE 409 Railroad Track Engineering**
 - **CEE 410 Rail Signal Systems**
 - **CEE 411 Rail Construction Management**
-- **CEE 412 High-speed Rail**
+- **CEE 412 High-speed Rail Engineering**
 - **CEE 415 Geometric Design of Roads (Required Capstone Course)**
 - **CEE 416 Traffic Capacity Analysis**
 - **CEE 418 Public Transportation Systems**
