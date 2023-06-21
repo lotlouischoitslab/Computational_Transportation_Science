@@ -19,7 +19,9 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Contributors:
 - ### Louis Sungwoo Cho (ITE@UIUC President)
 - ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
+<!--
 - #### Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign
+
 
 # Post-requisites
 - **CEE 406 Pavement Design 1**
@@ -36,6 +38,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **CEE 498 Data-driven Modeling and Simulation for CEE**
 - **CEE 498 Autonomous Trains?**
 - **CEE 498 Introduction to Intelligent Transportation Systems (ITS)?**
+--->
 
 # Teaching Guidelines:
 
@@ -96,6 +99,7 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 - **[3] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
 - **[4] [Institute of Transportation Engineers UIUC Chapter ITE@UIUC](https://ite.cee.illinois.edu/)**
 
+<!--
 ## Proposed Computational Transportation Science (CTS) Certification:
 
   ## REQUIRED:
@@ -113,3 +117,4 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
   - **ECE 365 Data Science & Engineering**
 
   ## Select 2 400 level CEE Transportation Courses:
+  ->
