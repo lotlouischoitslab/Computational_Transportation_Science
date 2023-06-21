@@ -17,8 +17,8 @@ Operation, management, control, design, evaluation of passenger and freight tran
   - **STAT 400 Statistics & Probability 1**
 
 # Contributors:
-- ### Louis Sungwoo Cho (ITE@UIUC President)
-- ### Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)
+- **Louis Sungwoo Cho (ITE@UIUC President)**
+- **Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)**
 <!--
 - #### Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign
 
