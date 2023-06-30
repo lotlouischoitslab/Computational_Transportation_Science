@@ -16,7 +16,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
   - **IE 300 Analysis of Data**
   - **STAT 400 Statistics & Probability 1**
 
-# Contributors:
+## Contributors:
 - **Louis Sungwoo Cho (ITE@UIUC President)**
 - **Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)**
 <!--
