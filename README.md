@@ -1,7 +1,7 @@
 # Computational Transportation Science
 Operation, management, control, design, evaluation of passenger and freight transportation systems. Traffic theory, introductory road design, air transportation, rail transportation, and an introduction to both Autonomous Vehicles, Intelligent Transportation Systems (ITS) and modern concepts of Smart Mobility for futuristic Smart Cities. Extensive use of Python and Excel will be used to analyze and forecast transportation data. 
 
-# Prerequisites:
+## Prerequisites:
 - ### Linear Algebra, one of following:
   - **MATH 257 Linear Algebra with Computational Applications (Python)**
   - **MATH 227 Linear Algebra for Data Science (Python)**
@@ -16,7 +16,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
   - **IE 300 Analysis of Data**
   - **STAT 400 Statistics & Probability 1**
 
-# Contributors:
+## Contributors:
 - **Louis Sungwoo Cho (ITE@UIUC President)**
 - **Institute of Transportation Engineers UIUC Chapter (ITE@UIUC)**
 <!--
