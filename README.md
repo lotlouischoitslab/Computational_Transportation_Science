@@ -96,9 +96,10 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 - **[0] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
 - **[1] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
 - **[2] [Gregory Michaelson FE Exam Review: Transportation](https://www.youtube.com/watch?v=us26CSISYHE)**
-- **[3] [Louis Engineering Computer Science Resources](https://github.com/lotlouischoitslab/Louis_Engineering_Computer_Science_Resources)**
+- **[3] [Mark Mattson FE Transportation Review](https://www.youtube.com/watch?v=3-SE8gA69WI&t=3107s)**
 - **[4] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
 - **[5] [Institute of Transportation Engineers UIUC Chapter ITE@UIUC](https://ite.cee.illinois.edu/)**
+- **[6] [Louis Engineering Computer Science Resources](https://github.com/lotlouischoitslab/Louis_Engineering_Computer_Science_Resources)**
 
 <!--
 ## Proposed Computational Transportation Science (CTS) Certification:
@@ -109,13 +110,9 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 
   ## Machine Learning Course (Select 1):
   - **CEE 492 Data Science for Civil & Environmental Engineering**
-  - **CEE 498 Machine Learning for Civil & Environmental Engineering**
   - **CS 440 Artificial Intelligence**
   - **CS 441 Applied Machine Learning**
   - **CS 443 Reinforcement Learning**
   - **CS 444 Deep Learning for Computer Vision**
   - **CS 446 Machine Learning Theory**
   - **ECE 365 Data Science & Engineering**
-
-  ## Select 2 400 level CEE Transportation Courses:
-  ->
