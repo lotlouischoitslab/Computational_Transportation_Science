@@ -13,7 +13,7 @@
          df = pd.read_csv(students)
          df.head()
 
-      If you are going to use the Jupyter notebook on your local machine, then ignore the mounting the Google drive process. All you got to do is call:
+      If you are going to use the Jupyter notebook on your local machine, then ignore the mounting the Google drive process. All you got to do is copy the following        code into your terminal:
   
          df = pd.read_csv('datasets/students.csv')
   
