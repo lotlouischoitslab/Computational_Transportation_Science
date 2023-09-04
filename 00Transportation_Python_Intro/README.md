@@ -17,4 +17,4 @@
   
          df = pd.read_csv('datasets/students.csv')
   
-  3. Fill out the **00Louis_Python_Notes_Blank** and **01Louis_Python_Continued_Blank** while you follow the tutorial video I will attach here: 
+  3. Fill out the **00Louis_Python_Notes_Blank** and **01Louis_Python_Continued_Blank** while you follow the tutorial video I will attach here: [link to video](https://www.canva.com/design/DAFtbdwJChQ/_dMqvxLOOUMN5jlvxX9eHQ/edit). A couple of notes, I have not covered certain topics like inheritance and polymorphism in the video because we did not have enough time to cover them all. However, I have the code towards in the end in the **01Louis_Python_Continued** file. If you have to use those advanced concepts, feel free to check my code out. Also, I was unable to answer the following questions in the video: "How do you sort the dictionary by key/items?" and "How do we get the number of students who are majoring in cee and minoring in cs?" I was able to figure out the answers and I have attached them in to the **00Louis_Python_Notes** file. I apologize for this inconvenience but please let me know if you need anything else.
