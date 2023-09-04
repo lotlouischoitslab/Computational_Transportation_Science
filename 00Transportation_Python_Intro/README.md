@@ -14,6 +14,7 @@
          df.head()
 
   If you are going to use the Jupyter notebook on your local machine, then ignore the mounting the Google drive process. All you got to do is call:
+  
          df = pd.read_csv('datasets/students.csv')
   
   3. Fill out the **00Louis_Python_Notes_Blank** and **01Louis_Python_Continued_Blank** while you follow the tutorial video I will attach here: 
