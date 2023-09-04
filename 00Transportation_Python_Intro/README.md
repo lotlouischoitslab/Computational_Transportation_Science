@@ -5,4 +5,4 @@
 
          path = '/content/drive/MyDrive/00Transportation_Python_Intro/datasets/
   
-  2. Fill out the 00Louis_Python_Intro_Blank and 01Louis_Python_Continued_Blank while you follow the tutorial video I will attach here: 
+  2. Fill out the **00Louis_Python_Intro_Blank** and **01Louis_Python_Continued_Blank** while you follow the tutorial video I will attach here: 
