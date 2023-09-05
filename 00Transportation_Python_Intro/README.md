@@ -5,7 +5,7 @@
 
 
 **Here is the image for your reference:**
-![title](images/zip_download.png)
+![title](zip_download.png)
 
 
 
