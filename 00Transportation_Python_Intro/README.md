@@ -7,7 +7,7 @@
 **Here is the image for your reference:**
 
 <p>
-    <img src="zip_download.png" width="220" height="240" />
+    <img src="images/zip_download.png" width="220" height="240" />
 </p>
 
 
