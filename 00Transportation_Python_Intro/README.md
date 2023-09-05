@@ -6,7 +6,9 @@
 
 **Here is the image for your reference:**
 ![title](zip_download.png)
-
+<p>
+    <img src="zip_download.png" width="220" height="240" />
+</p>
 
 
 
