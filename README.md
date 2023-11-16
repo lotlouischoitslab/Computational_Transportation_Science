@@ -44,7 +44,7 @@ Operation, management, control, design, evaluation of passenger and freight tran
 - **6% Lecture Attendance**
 - **20% Prairielearn Assignments**
 - **20% Midterm Exams**
-- **27% Machine Problems**
+- **27% Mini Projects**
 - **27% Final Presentations**
 - **Extra Credits**
 
