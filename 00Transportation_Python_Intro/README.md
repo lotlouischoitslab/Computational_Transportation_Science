@@ -14,7 +14,6 @@
 
 When mounting this folder into Google drive, be sure to rename your file path as the following:
 
-         path = '/content/drive/MyDrive/00Transportation_Python_Intro/datasets/
          import numpy as np  IMPORTANT IF YOU WANT TO USE GOOGLE COLAB
          import pandas as pd 
          from google.colab import drive
