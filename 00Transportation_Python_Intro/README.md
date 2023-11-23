@@ -14,7 +14,7 @@
 
 When mounting this folder into Google drive, be sure to rename your file path as the following:
 
-         import numpy as np  IMPORTANT IF YOU WANT TO USE GOOGLE COLAB
+         import numpy as np   
          import pandas as pd 
          from google.colab import drive
          drive.mount('/content/drive')
@@ -24,8 +24,11 @@ When mounting this folder into Google drive, be sure to rename your file path as
          df.head()
 
 If you are going to use the Jupyter notebook on your local machine, then ignore the mounting the Google drive process. All you got to do is copy the following code into your terminal:
-  
+          
+         import numpy as np   
+         import pandas as pd
          df = pd.read_csv('datasets/students.csv')
+         df.head()
 
   2. Go to this link to view the **[VIDEO](https://www.canva.com/design/DAFtbdwJChQ/_dMqvxLOOUMN5jlvxX9eHQ/edit?utm_content=DAFtbdwJChQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).**
   
