@@ -41,11 +41,12 @@ Operation, management, control, design, evaluation of passenger and freight tran
 # Teaching Guidelines:
 
 ## Proposed Grading:
-- **6% Lecture Attendance**
+- **5% Lecture Attendance**
+- **5% Weekly Checkpoints**
 - **20% Prairielearn Assignments**
 - **20% Midterm Exams**
-- **27% Mini-Projects (MP)**
-- **27% Final Presentations**
+- **40% Mini-Projects (MP)**
+- **10% Final Presentations**
 - **Extra Credits**
 
 ## Proposed Grading Scale:
