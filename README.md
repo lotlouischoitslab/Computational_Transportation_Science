@@ -1,13 +1,8 @@
 # Computational Transportation Science
-Operation, management, control, design, evaluation of passenger and freight transportation systems. Traffic theory, introductory road design, air transportation, rail transportation, and an introduction to both Autonomous Vehicles, Intelligent Transportation Systems (ITS) and modern concepts of Smart Mobility for futuristic Smart Cities. Extensive use of Python and Excel will be used to analyze and forecast transportation data. 
+Operation, management, control, design, evaluation of passenger and freight transportation systems. Traffic theory, introductory road design, air transportation, rail transportation, and an introduction to both Autonomous Vehicles, Intelligent Transportation Systems (ITS) and modern concepts of Smart Mobility for futuristic Smart Cities. Extensive use of computational tools will be used to work on hands-on assignments to solve modern day transportation problems. 
 
 ## Prerequisites:
-- ### Computing, one of the following:
-  - **CS 124 Introduction to Computer Science 1 (Java)**
-  - **CS 101 Introduction to Computing for Scientists & Engineers**
-  - **CS/STAT/IS 107 Data Science Discovery**
-  - **ECE 120 Introduction to Computing**
-- ### Probability & Statistics, one of the following:
+- ### One of the following:
   - **CEE 202 Engineering Uncertainty & Risk**
   - **CS 361 Probability & Statistics for Computer Science**
   - **ECE 313 Probability with Electrical Engineering Applications**
@@ -76,6 +71,9 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 ## Lecture Attendance:
 - Please go to lecture to meet new friends and professors. You will have a much diverse understanding of how transportation engineering is applied into many different fields in our modern society. 3 of your lecture attendances will be dropped.
 
+## Weekly Checkpoints:
+- Every week, checkpoint problems on Prairielearn will be assigned to test whether if students have understood the topics learned in that particular week.
+
 ## Prairielearn Assignments:
 - Each homework will have multiple attempts to demonstrate mastery in the material taught in that particular unit. This gets rid of the burden both TAs and CAs have on grading tons of written assignments which takes forever. **The lowest homework assignment will be dropped.**
 
@@ -83,10 +81,10 @@ Don't worry everyone, I will make the grading as lenient as possible. If you got
 - There will be two midterm exams. The first midterm exam will be on **Traffic Theory** and the second midterm will be on the remaining topics covered in the course. You are allowed to drop one midterm exam and the highest score will be counted only. The two midterm exams are **NOT** cumulative and students are allowed to bring an one page cheat sheet **(EACH PAGE DOUBLE-SIDED)** which can be used as a reference. There will be **NO** final exam and the second midterm will be scheduled before the finals period.
 
 ## Mini-Projects (MP):
-- Group of 4 to 5 students will work on data science and engineering problems to analyze various transportation data using Python and Excel. These are called **Mini-Projects (A.K.A MP)**. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern 21st century transportation academia and industry. Each group activity will be given 2 weeks for completion.
+- Groups of 4 or 5 students will work on data science and engineering problems to analyze various transportation data using Python and Excel. These are called **Mini-Projects (A.K.A MP)**. Group activities will not only enhance students skills in data computation, but also effective communicative skills necessary to be successful in the modern 21st century transportation academia and industry. Each group activity will be given 2 weeks for completion.
 
 ## Final Presentations:
-- Teams of 4 will present on a given topic for a unit in transportation they are interested covered in the course and record a video of their presentations. It can be a topic that they are interested in a group computational problem they have been solving or something else. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the mini-presentations.**
+- Groups of 4 or 5 will present on a given topic for a unit in transportation they are interested covered in the course and record a video of their presentations. It can be a topic that they are interested in a group computational problem they have been solving or something else. **The winning team of the best presentation will get an extra credit of 1% for each group member in the winning team! Everyone is required to participate in the mini-presentations.**
 
 ## Extra Credits:
 - Numerous extra credit opportunities at instructor's choice. 
