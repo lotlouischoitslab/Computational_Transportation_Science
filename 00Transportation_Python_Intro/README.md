@@ -30,6 +30,6 @@ If you are going to use the Jupyter notebook on your local machine, then ignore 
          df = pd.read_csv('datasets/students.csv')
          df.head()
 
-  2. Go to this link to view the **[VIDEO](https://www.canva.com/design/DAFtbdwJChQ/_dMqvxLOOUMN5jlvxX9eHQ/edit?utm_content=DAFtbdwJChQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).**
+  2. Go to this link to view the **[VIDEO](https://www.youtube.com/watch?v=i0x3sXo0-CQ).**
   
   3. Fill out the **00Louis_Python_Notes_Blank** and **01Louis_Python_Continued_Blank**. **00Louis_Python_Notes_Filled** and **01Louis_Python_Continued_Filled** are the ones that we have been filling in on the tutorial session. If you want more stuff, there are more code in the remaining files as well.  A couple of notes, I have not covered certain topics like inheritance and polymorphism in the video because we did not have enough time to cover them all. However, I have the code towards in the end in the **01Louis_Python_Continued** file. If you have to use those advanced concepts, feel free to check my code out. 
